@@ -1,2 +1,2 @@
 # capstone-project
-Capstone Project Purwadhika - Aplikasi Rumah Sakit
+Capstone Project / Python Basic Programming - Aplikasi Rumah Sakit
